@@ -15,10 +15,10 @@ The challenges can be done either in databricks or even in the freely available 
 
 Follow the videos below to find out how to set up the respective account:
 
-- [Databricks Video Intro](docs/python_advent_calendar_in_colab.mp4)  
+- [Databricks Video Intro](docs/python_advent_calendar_in_databricks.mp4)  
 You need to have access to a databricks workspace. Either your company already set up one for you or you can do that yourself here: https://docs.databricks.com/getting-started/index.html
 
-- [Google Colab Video Intro](docs/python_advent_calendar_in_databricks.mp4)  
+- [Google Colab Video Intro](docs/python_advent_calendar_in_colab.mp4)  
 For Google Colab you need a google account and then you can sign in here: https://colab.research.google.com
 
 Let us all improve our skills bit by bit, exchange about it and thus be prepared to have a good start into 2021.
