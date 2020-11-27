@@ -11,7 +11,7 @@ As always Google is your friend and I am looking forward to see some solutions t
 Most of the challenges can be done within 10 lines, which does not automatically mean that those are easy problems. 
 
 I am trying to allow the participation with as little preparation as possible. You will only need your browser to participate.
-The challenges can be done either in databricks or even in the freely available google colab. Try to use the door_0 example to check your setup.
+The challenges can be done either in databricks or even in the freely available google colab. Try to use the [door_0](tasks/Task_00_Door_0.ipynb) example in the tasks folder to check your setup.
 
 Follow the videos below to find out how to set up the respective account:
 
