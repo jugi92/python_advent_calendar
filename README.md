@@ -23,3 +23,8 @@ For Google Colab you need a google account and then you can sign in here: https:
 If you are not really used to git workflows you can open the notebooks one by one as shown in the video above. If you are experienced with the git workflows or want to learn more about them you can clone/fork this repository to your own github and then run the notebooks in colab by visting https://colab.research.google.com/github/ where you find your repositories.
 
 Let us all improve our skills bit by bit, exchange about it and thus be prepared to have a good start into 2021.
+
+### First Door
+
+Christmas preparations started. Find the first challenge under tasks in the file [Task_01_confused_airports.ipynb](tasks/Task_01_confused_airports.ipynb)
+The solution will be provided tomorrow, 2nd of December and the next challenge will be published on the 3rd of December.  
