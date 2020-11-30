@@ -20,5 +20,6 @@ You need to have access to a databricks workspace. Either your company already s
 
 - [Google Colab Video Intro](docs/python_advent_calendar_in_colab.mp4)  
 For Google Colab you need a google account and then you can sign in here: https://colab.research.google.com
+You can clone/fork this repository to your own github and then run the notebooks in colab by visting https://colab.research.google.com/github/ where you find your repositories.
 
 Let us all improve our skills bit by bit, exchange about it and thus be prepared to have a good start into 2021.
