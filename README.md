@@ -30,3 +30,8 @@ Christmas preparations started. Find the first challenge under tasks in the file
 The solution will be provided tomorrow, 2nd of December and the next challenge will be published on the 3rd of December.  
 
 Find my suggested solution to the challenge of the first door here: [Solution_01_confused_airports.ipynb](solutions/Solution_01_confused_airports.ipynb)
+
+### Second Door
+
+Find the next challenge under tasks in the file [Task_03_palindrome.ipynb](tasks/Task_03_palindrome.ipynb)
+The solution will be provided tomorrow, 4th of December and the next challenge will **exceptionally** also be published tomorrow, on the 4th of December.
