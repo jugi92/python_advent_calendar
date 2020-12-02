@@ -28,3 +28,5 @@ Let us all improve our skills bit by bit, exchange about it and thus be prepared
 
 Christmas preparations started. Find the first challenge under tasks in the file [Task_01_confused_airports.ipynb](tasks/Task_01_confused_airports.ipynb)
 The solution will be provided tomorrow, 2nd of December and the next challenge will be published on the 3rd of December.  
+
+Find my suggested solution to the challenge of the first door here: [Solution_01_confused_airports.ipynb](solutions/Solution_01_confused_airports.ipynb)
