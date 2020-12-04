@@ -36,9 +36,9 @@ Find my suggested solution to the challenge of the first door here: [Solution_01
 Find the next challenge under tasks in the file [Task_03_palindrome.ipynb](tasks/Task_03_palindrome.ipynb)
 The solution will be provided tomorrow, 4th of December and the next challenge will **exceptionally** also be published tomorrow, on the 4th of December.
 
-Find my suggested solution to the challenge here: [Solution_03_palindrome.ipynb](solutions\Solution_03_palindrome.ipynb)
+Find my suggested solution to the challenge here: [Solution_03_palindrome.ipynb](solutions/Solution_03_palindrome.ipynb)
 
 ### Second and a half Door
-Find the **exceptional** challenge for the second and a half door in the file [Task_04_roundtrips.ipynb](tasks\Task_04_roundtrips.ipynb). The solution will be published together with the next challenge on the 5th of December.
+Find the **exceptional** challenge for the second and a half door in the file [Task_04_roundtrips.ipynb](tasks/Task_04_roundtrips.ipynb). The solution will be published together with the next challenge on the 5th of December.
 
 
