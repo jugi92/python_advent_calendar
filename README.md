@@ -41,22 +41,26 @@ Find my suggested solution to the challenge here: [Solution_03_palindrome.ipynb]
 I also included a much simpler and more pythonic solution provided by Daniel Moser.
 
 ### Second and a half Door
-Find the **exceptional** challenge for the second and a half door in the file [Task_04_roundtrips.ipynb](tasks/Task_04_roundtrips.ipynb). The solution will be published together with the next challenge on the 5th of December.
+Find the **exceptional** challenge for the second and a half door in the file [Task_04_roundtrips.ipynb](tasks/Task_04_roundtrips.ipynb). 
 
 Find my suggested solution to the challenge here: [Solution_04_roundtrips.ipynb](solutions/Solution_04_roundtrips.ipynb)
 
 ### Third Door
 Find the next challenge under tasks in the file [Task_05_messed_requirements.ipynb](tasks/Task_05_messed_requirements.ipynb)
-The solution will be provided tomorrow, 7th of December and the next challenge will also be published tomorrow, on the 7th of December.
 
 Find my suggested solution to the challenge here: [Solution_05_messed_requirements.ipynb](solutions/Solution_05_messed_requirements.ipynb)
 
 ### Fourth Door
 Find the next challenge under tasks in the file [Task_07_lh_fleet.ipynb](tasks/Task_07_lh_fleet.ipynb)
-The solution will be provided tomorrow, 10th of December and the next challenge will also be published tomorrow, on the 10th of December.
 
 Find my suggested solution to the challenge here: [Solution_07_lh_fleet.ipynb](solutions/Solution_07_lh_fleet.ipynb)
 
 ### Fifth Door
 Find the next challenge under tasks in the file [Task_09_flight_duration.ipynb](tasks/Task_09_flight_duration.ipynb)
+
+Find my suggested solution to the challenge here: [Solution_09_flight_duration.ipynb](solutions/Solution_09_flight_duration.ipynb)
+
+
+### Sixth Door
+Find the next challenge under tasks in the file [Task_11_openflights.ipynb](tasks/Task_11_openflights.ipynb)
 The solution will be provided tomorrow, 11th of December and the next challenge will also be published tomorrow, on the 11th of December.
