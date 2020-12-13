@@ -63,4 +63,8 @@ Find my suggested solution to the challenge here: [Solution_09_flight_duration.i
 
 ### Sixth Door
 Find the next challenge under tasks in the file [Task_11_openflights.ipynb](tasks/Task_11_openflights.ipynb)
-The solution will be provided tomorrow, 11th of December and the next challenge will also be published tomorrow, on the 11th of December.
+
+Find my suggested solution to the challenge here: [Solution_11_openflights.ipynb](solutions/Solution_11_openflights.ipynb)
+
+### Seventh Door
+Find the next challenge under tasks in the file [Task_13_tic_tac_toe.ipynb](tasks/Task_13_tic_tac_toe.ipynb). The solution and the next challenge will be provided on 15th of December.
