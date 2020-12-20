@@ -77,4 +77,9 @@ Find the next challenge under tasks in the file [Task_15_tic_tac_toe.ipynb](task
 Find my suggested solution to the challenge here: [Solution_15_tic_tac_toe.ipynb](solutions/Solution_15_tic_tac_toe.ipynb)
 
 ### Ninth Door
-Find the next challenge under tasks in the file [Task_17_tic_tac_toe.ipynb](tasks/Task_17_tic_tac_toe.ipynb). The solution and the next challenge will be provided on 17th of December.
+Find the next challenge under tasks in the file [Task_17_tic_tac_toe.ipynb](tasks/Task_17_tic_tac_toe.ipynb). 
+
+Find my suggested solution to the challenge here: [Solution_17_tic_tac_toe.ipynb](solutions/Solution_17_tic_tac_toe.ipynb)
+
+### Tenth Door
+Find the next challenge under tasks in the file [Task_19_planes.ipynb](tasks/Task_19_planes.ipynb). The solution and the next challenge will be provided on 21st of December.
