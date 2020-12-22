@@ -83,3 +83,8 @@ Find my suggested solution to the challenge here: [Solution_17_tic_tac_toe.ipynb
 
 ### Tenth Door
 Find the next challenge under tasks in the file [Task_19_planes.ipynb](tasks/Task_19_planes.ipynb). The solution and the next challenge will be provided on 21st of December.
+
+Find my suggested solution to the challenge here: [Solution_19_planes.ipynb](solutions/Solution_19_planes.ipynb)
+
+### Eleventh Door
+Find the next challenge under tasks in the file [Task_21_the_gap.ipynb](tasks/Task_21_the_gap.ipynb). The solution and the next challenge will be provided on 23rd of December.
