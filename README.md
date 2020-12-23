@@ -88,3 +88,8 @@ Find my suggested solution to the challenge here: [Solution_19_planes.ipynb](sol
 
 ### Eleventh Door
 Find the next challenge under tasks in the file [Task_21_the_gap.ipynb](tasks/Task_21_the_gap.ipynb). The solution and the next challenge will be provided on 23rd of December.
+
+Find my suggested solution to the challenge here: [Solution_21_the_gap.ipynb](solutions/Solution_21_the_gap.ipynb)
+
+### Twelfth and last Door
+Find the next challenge under tasks in the file [Task_23_xmas_tree.ipynb](tasks/Task_23_xmas_tree.ipynb). The solution will be provided on 24th of December.
