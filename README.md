@@ -92,4 +92,9 @@ Find the next challenge under tasks in the file [Task_21_the_gap.ipynb](tasks/Ta
 Find my suggested solution to the challenge here: [Solution_21_the_gap.ipynb](solutions/Solution_21_the_gap.ipynb)
 
 ### Twelfth and last Door
-Find the next challenge under tasks in the file [Task_23_xmas_tree.ipynb](tasks/Task_23_xmas_tree.ipynb). The solution will be provided on 24th of December.
+Find the next challenge under tasks in the file [Task_23_xmas_tree.ipynb](tasks/Task_23_xmas_tree.ipynb). 
+
+Find my suggested solution to the challenge here: [Solution_23_xmas_tree.ipynb](solutions/Solution_23_xmas_tree.ipynb)
+
+Thanks for your participation and  
+Merry Christmas
